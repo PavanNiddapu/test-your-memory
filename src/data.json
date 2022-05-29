@@ -1,0 +1,11 @@
+{
+    "presidents": [
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "1st President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        }
+    ],
+    "PM": []
+}
