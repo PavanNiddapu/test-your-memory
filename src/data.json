@@ -85,5 +85,72 @@
             "tenure": "1952-1957"
         }
     ],
-    "PM": []
+    "VP": [
+        {
+            "name": "SARAVAPALLI RADHA KRISHNA",
+            "designation": "1st Vice President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "2nd President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "1st President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "1st President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "1st President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "1st President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "1st President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "1st President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "1st President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "1st President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr. Rajendra Prasad",
+            "designation": "1st President of India",
+            "image": "images/presidents/1.jpg",
+            "tenure": "1952-1957"
+        }
+    ]
 }
