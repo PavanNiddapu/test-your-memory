@@ -5,6 +5,84 @@
             "designation": "1st President of India",
             "image": "images/presidents/1.jpg",
             "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr.sarvepalli Radhakrishnan",
+            "designation": "2st President of India",
+            "image": "images/presidents/2.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Dr.Zakir Hussain",
+            "designation": "3st President of India",
+            "image": "images/presidents/3.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "V.V.Giri",
+            "designation": "4st President of India",
+            "image": "images/presidents/4.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Fakhruddin Ali Ahmed",
+            "designation": "5st President of India",
+            "image": "images/presidents/5.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "Neelam Sanjeeva Reddy",
+            "designation": "6st President of India",
+            "image": "images/presidents/6.png",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "",
+            "designation": "7st President of India",
+            "image": "images/presidents/7.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "",
+            "designation": "8st President of India",
+            "image": "images/presidents/8.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "",
+            "designation": "9st President of India",
+            "image": "images/presidents/9.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "",
+            "designation": "10th President of India",
+            "image": "images/presidents/10.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "",
+            "designation": "11st President of India",
+            "image": "images/presidents/11.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "",
+            "designation": "12st President of India",
+            "image": "images/presidents/12.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "",
+            "designation": "13th President of India",
+            "image": "images/presidents/13.jpg",
+            "tenure": "1952-1957"
+        },
+        {
+            "name": "",
+            "designation": "14th President of India",
+            "image": "images/presidents/14.jpg",
+            "tenure": "1952-1957"
         }
     ],
     "PM": []
