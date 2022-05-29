@@ -87,70 +87,82 @@
     ],
     "VP": [
         {
-            "name": "SARAVAPALLI RADHA KRISHNA",
+            "name": "Dr. Sarvepalli Radhakrishnan",
             "designation": "1st Vice President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "image": "images/vp/1.jpg",
+            "tenure": "May 13, 1952 to May 12, 1962"
         },
         {
-            "name": "Dr. Rajendra Prasad",
-            "designation": "2nd President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "name": "Dr.Zakir Hussain",
+            "designation": "2nd Vice President of India",
+            "image": "images/vp/2.jpg",
+            "tenure": "May 13, 1962 to May 12, 1967"
         },
         {
-            "name": "Dr. Rajendra Prasad",
-            "designation": "1st President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "name": "Sh. V.V. Giri",
+            "designation": "3rd Vice President of India",
+            "image": "images/vp/3.jpg",
+            "tenure": "May 13, 1967 to May 3, 1969"
         },
         {
-            "name": "Dr. Rajendra Prasad",
-            "designation": "1st President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "name": "Sh. Gopal Swarup Pathak",
+            "designation": "4th Vice President of India",
+            "image": "images/vp/4.jpg",
+            "tenure": "August 31, 1969 to August 30, 1974"
         },
         {
-            "name": "Dr. Rajendra Prasad",
-            "designation": "1st President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "name": "Sh. B.D.Jatti",
+            "designation": "5th Vice President of India",
+            "image": "images/vp/5.jpg",
+            "tenure": "August 31, 1974 to August 30, 1979"
         },
         {
-            "name": "Dr. Rajendra Prasad",
-            "designation": "1st President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "name": "Sh. M. Hidayatullah",
+            "designation": "6th Vice President of India",
+            "image": "images/vp/6.jpg",
+            "tenure": "August 31, 1979 to August 30, 1984"
         },
         {
-            "name": "Dr. Rajendra Prasad",
-            "designation": "1st President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "name": "Sh. R. Venkataraman",
+            "designation": "7th Vice President of India",
+            "image": "images/vp/7.jpg",
+            "tenure": "August 31, 1984 to July 24, 1987"
         },
         {
-            "name": "Dr. Rajendra Prasad",
-            "designation": "1st President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "name": "Dr. Shanker Dayal Sharma",
+            "designation": "8th Vice President of India",
+            "image": "images/vp/8.jpg",
+            "tenure": "September 3, 1987 to July 24, 1992"
         },
         {
-            "name": "Dr. Rajendra Prasad",
-            "designation": "1st President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "name": "Sh. K.R. Narayanan",
+            "designation": "9th Vice President of India",
+            "image": "images/vp/9.jpg",
+            "tenure": "August 21, 1992 to July 24, 1997"
         },
         {
-            "name": "Dr. Rajendra Prasad",
-            "designation": "1st President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "name": "Sh. Krishan Kant",
+            "designation": "10th Vice President of India",
+            "image": "images/vp/10.jpg",
+            "tenure": "August 21, 1997 to July 27, 2002"
         },
         {
-            "name": "Dr. Rajendra Prasad",
-            "designation": "1st President of India",
-            "image": "images/presidents/1.jpg",
-            "tenure": "1952-1957"
+            "name": "Sh. Bhairon Singh Shekhawat",
+            "designation": "11th Vice President of India",
+            "image": "images/vp/11.jpg",
+            "tenure": "August 19, 2002 to July 21, 2007"
+        },
+        {
+            "name": "Sh. M. Hamid Ansari",
+            "designation": "12th Vice President of India",
+            "image": "images/vp/12.jpg",
+            "tenure": "August 11, 2007 to August 10, 2017"
+        },
+        {
+            "name": "M.venkaiah naidu",
+            "designation": "13th Vice President of India",
+            "image": "images/vp/13.jpg",
+            "tenure": "11 August 2017  to till Today"
         }
     ]
 }
