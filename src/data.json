@@ -165,7 +165,7 @@
             "tenure": "11 August 2017  to till Today"
         }
     ],
-    "pm": [
+    "PM": [
         {
             "name": "Shri Jawaharlal Nehru",
             "designation": "prime minister of India",
@@ -281,169 +281,145 @@
         "designation": "1st RBI Governor of India",
         "image": "images/rbi/1.jpg",
         "tenure": "01-04-1935 to 30-06-1937" 
-         }
-
+         },
          {
             "name": "Sir James Taylor",
             "designation": "2nd RBI Governor of India",
             "image": "images/rbi/2.jpg",
             "tenure": "01-07-1937 to 17-02-1943" 
-         }
-
+         },
          {
             "name": "Sir C D Deshmukh",
             "designation": " 3rd RBI Governor of India",
             "image": "images/rbi/3.jpg",
             "tenure": "11-08-1943 to 30-06-1949" 
-         }
-
+         },
          {
             "name": "Sir Benegal Rama Rau",
             "designation": "4th  RBI Governor of India",
             "image": "images/rbi/4.jpg",
             "tenure": "01-07-1949 to 14-01-1957" 
-         }
-
+         },
          {
             "name": "K G Ambegaonkar",
             "designation": "5th RBI Governor of India",
             "image": "images/rbi/5.jpg",
             "tenure": "14-01-1957 to 28-02-1957" 
-         }
-
+         },
          {
             "name": "H V R Iengar",
             "designation": "6th RBI Governor of India",
             "image": "images/rbi/6.jpg",
             "tenure": "01-03-1957 to 28-02-1962" 
-         }
-
+         },
          {
             "name": "P C Bhattacharya",
             "designation": "7th RBI Governor of India",
             "image": "images/rbi/7.jpg",
             "tenure": "01-03-1962 to 30-06-1967" 
-         }
-
+         },
          {
             "name": "L K Jha",
             "designation": "8th RBI Governor of India",
             "image": "images/rbi/8.jpg",
             "tenure": "01-07-1967 to 03-05-1970" 
-         }
-
+         },
          {
             "name": "B N Adarkar",
             "designation": "9th RBI Governor of India",
             "image": "images/rbi/9.jpg",
             "tenure": "04-05-1970 to 15-06-1970" 
-         }
-
+         },
          {
             "name": "S Jagannathan",
             "designation": "10th RBI Governor of India",
             "image": "images/rbi/10.jpg",
             "tenure": "16-06-1970 to 19-05-1975" 
-         }
-
+         },
          {
             "name": "N C Sen Gupta",
             "designation": "11th RBI Governor of India",
             "image": "images/rbi/11.jpg",
             "tenure": "19-05-1975 to 19-08-1975" 
-         }
-
+         },
          {
             "name": "K R Puri",
             "designation": "12th RBI Governor of India",
             "image": "images/rbi/12.jpg",
             "tenure": "20-08-1975 to 02-05-1977" 
-         }
-
+         },
          {
             "name": "M Narasimham",
             "designation": "13th RBI Governor of India",
             "image": "images/rbi/13.jpg",
             "tenure": "02-05-1977 to 30-11-1977" 
-         }
-
-         {
+        },
+        {
             "name": "Dr. I G Patel",
             "designation": "14th RBI Governor of India",
             "image": "images/rbi/14.jpg",
             "tenure": "01-12-1977 to 15-09-1982" 
-         }
-
+         },
          {
             "name": "Dr. Manmohan Singh",
             "designation": "15th RBI Governor of India",
             "image": "images/rbi/15.jpg",
             "tenure": "16-09-1982 to 14-01-1985" 
-         }
-
+         },
          {
             "name": "A Ghosh",
             "designation": "16th RBI Governor of India",
             "image": "images/rbi/16.jpg",
             "tenure": "15-01-1985 to 04-02-1985" 
-         }
-
+         },
          {
             "name": "R N Malhotra",
             "designation": "17th RBI Governor of India",
             "image": "images/rbi/17.jpg",
             "tenure": "04-02-1985 to 22-12-1990" 
-         }
-
+         },
          {
             "name": "Venkitaramanan",
             "designation": "18th RBI Governor of India",
             "image": "images/rbi/18.jpg",
             "tenure": "22-12-1990 to 21-12-1992" 
-         }
-
+         },
          {
             "name": "Dr. C Rangarajan",
             "designation": "19th RBI Governor of India",
             "image": "images/rbi/19.jpg",
             "tenure": "22-12-1992 to 22-11-1997" 
-         }
-
+         },
          {
             "name": "Dr. Bimal Jalan",
             "designation": "20th RBI Governor of India",
             "image": "images/rbi/20.jpg",
             "tenure": "22-11-1997 to 06-09-2003" 
-         }
-
+         },
          {
             "name": "Dr. Y V Reddy",
             "designation": "21st RBI Governor of India",
             "image": "images/rbi/21.jpg",
             "tenure": "06-09-2003 to 05-09-2008" 
-         }
-
+         },
          {
             "name": "Dr. D. Subbarao",
             "designation": "22nd RBI Governor of India",
             "image": "images/rbi/22.jpg",
             "tenure": "05-09-2008 to 04-09-13" 
-         }
-
+         },
          {
             "name": "Dr. Raghuram Rajan",
             "designation": "23rd RBI Governor of India",
             "image": "images/rbi/23.jpg",
             "tenure": "04-09-2013 to 04-09-2016" 
-         }
-
+         },
          {
             "name": "Dr. Urjit R. Patel",
             "designation": "24th RBI Governor of India",
             "image": "images/rbi/24.jpg",
             "tenure": "04-09-2016 to 11-12-2018" 
-         }
-
+         },
          {
             "name": "Shri Shaktikanta Das",
             "designation": "25th RBI Governor of India",
@@ -452,3 +428,5 @@
          }
         ]
 }
+    
+
