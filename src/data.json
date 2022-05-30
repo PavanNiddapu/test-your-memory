@@ -164,5 +164,115 @@
             "image": "images/vp/13.jpg",
             "tenure": "11 August 2017  to till Today"
         }
+    ],
+    "pm": [
+        {
+            "name": "Shri Jawaharlal Nehru",
+            "designation": "prime minister of India",
+            "image": "images/pm/1.jpg",
+            "tenure": "August 15, 1947 to May 27, 1964"  
+        },
+        {
+            "name": "Shri Gulzari Lal Nanda",
+            "designation": "prime minister of India",
+            "image": "images/pm/2.jpg",
+            "tenure": "May 27, 1964 - June 9, 1964"  
+        },
+        {
+            "name": "Shri Lal Bahadur Shastri",
+            "designation": "prime minister of India",
+            "image": "images/pm/3.jpg",
+            "tenure": "June 9, 1964 - January 11, 1966"  
+        },
+        {
+            "name": "Shri Gulzari Lal Nanda",
+            "designation": "prime minister of India",
+            "image": "images/pm/4.jpg",
+            "tenure": "January 11, 1966 - January 24, 1966"  
+        },
+        {
+            "name": "Smt. Indira Gandhi",
+            "designation": "prime minister of India",
+            "image": "images/pm/5.jpg",
+            "tenure": "January 24, 1966 - March 24, 1977"  
+        },
+        {
+            "name": "Shri Morarji Desai",
+            "designation": "prime minister of India",
+            "image": "images/pm/6.jpg",
+            "tenure": "March 24, 1977 - July 28, 1979"  
+        },
+        {
+            "name": "Shri Charan Singh",
+            "designation": "prime minister of India",
+            "image": "images/pm/7.jpg",
+            "tenure": "July 28, 1979 - January 14, 1980"  
+        },
+        {
+            "name": "Smt. Indira Gandhi",
+            "designation": "prime minister of India",
+            "image": "images/pm/8.jpg",
+            "tenure": "January 14, 1980 - October 31, 1984"  
+        },
+        {
+            "name": "Shri Rajiv Gandhi",
+            "designation": "prime minister of India",
+            "image": "images/pm/9.jpg",
+            "tenure": "October 31, 1984 - December 2, 1989"  
+        },
+        {
+            "name": "Shri Vishwanath Pratap Singh",
+            "designation": "prime minister of India",
+            "image": "images/pm/10.jpg",
+            "tenure": "December 2, 1989 - November 10, 1990"  
+        },
+        {
+            "name": "Shri Chandra Shekhar",
+            "designation": "prime minister of India",
+            "image": "images/pm/11.jpg",
+            "tenure": "November 10, 1990 - June 21, 1991"  
+        },
+        {
+            "name": "Shri P. V. Narasimha Rao",
+            "designation": "prime minister of India",
+            "image": "images/pm/12.jpg",
+            "tenure": "June 21, 1991- May 16, 1996"  
+        },
+        {
+            "name": "Shri Atal Bihari Vajpayee",
+            "designation": "prime minister of India",
+            "image": "images/pm/13.jpg",
+            "tenure": "May 16, 1996 - June 1, 1996"  
+        },
+        {
+            "name": "Shri H. D. Deve Gowda",
+            "designation": "prime minister of India",
+            "image": "images/pm/14.jpg",
+            "tenure": "June 1, 1996 - April 21, 1997"  
+        },
+        {
+            "name": "Shri Inder Kumar Gujral",
+            "designation": "prime minister of India",
+            "image": "images/pm/15.jpg",
+            "tenure": "April 21, 1997 - March 19, 1998"  
+        },
+        {
+            "name": "Shri Atal Bihari Vajpayee",
+            "designation": "prime minister of India",
+            "image": "images/pm/16.jpg",
+            "tenure": "March 19, 1998 - May 22, 2004"  
+        },
+        {
+            "name": "Dr. Manmohan Singh",
+            "designation": "prime minister of India",
+            "image": "images/pm/17.jpg",
+            "tenure": "May 22, 2004 - May 26, 2014"  
+        },
+        {
+            "name": "Narendra Damodardas Modi",
+            "designation": "prime minister of India",
+            "image": "images/pm/18.jpg",
+            "tenure": "26 May 2014 - Till Today"  
+        }
     ]
 }
