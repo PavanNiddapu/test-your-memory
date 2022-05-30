@@ -31,6 +31,9 @@ function App() {
             <li>
               <Link to="/PM">PM</Link>
             </li>
+            <li>
+              <Link to="/RBI">RBI</Link>
+            </li>
           </ul>
         </nav>
       </div>
@@ -39,6 +42,7 @@ function App() {
         <Route path="/presidents" element={<Card items={Data.presidents} />} />
         <Route path="/VP" element={<Card items={Data.VP} />} />
         <Route path="/PM" element={<Card items={Data.PM} />} />
+        <Route path="/RBI" element={<Card items={Data.RBI} />} />
         <Route path="/" element={<Home />} />
       </Routes>
     </Router>
