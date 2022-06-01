@@ -426,6 +426,14 @@
             "image": "images/rbi/25.jpg",
             "tenure": "12-12-2018 to date" 
          }
+        ],
+        "cm": [
+            {
+            "name":"jagan mohan reddy" ,
+            "state":"Andhra Pradesh (AP)",
+            "image":"images/cm/1.jpg"
+            
+            }
         ]
 }
     
