@@ -170,271 +170,413 @@
             "name": "Shri Jawaharlal Nehru",
             "designation": "prime minister of India",
             "image": "images/pm/1.jpg",
-            "tenure": "August 15, 1947 to May 27, 1964"  
+            "tenure": "August 15, 1947 to May 27, 1964"
         },
         {
             "name": "Shri Gulzari Lal Nanda",
             "designation": "prime minister of India",
             "image": "images/pm/2.jpg",
-            "tenure": "May 27, 1964 - June 9, 1964"  
+            "tenure": "May 27, 1964 - June 9, 1964"
         },
         {
             "name": "Shri Lal Bahadur Shastri",
             "designation": "prime minister of India",
             "image": "images/pm/3.jpg",
-            "tenure": "June 9, 1964 - January 11, 1966"  
+            "tenure": "June 9, 1964 - January 11, 1966"
         },
         {
             "name": "Shri Gulzari Lal Nanda",
             "designation": "prime minister of India",
             "image": "images/pm/4.jpg",
-            "tenure": "January 11, 1966 - January 24, 1966"  
+            "tenure": "January 11, 1966 - January 24, 1966"
         },
         {
             "name": "Smt. Indira Gandhi",
             "designation": "prime minister of India",
             "image": "images/pm/5.jpg",
-            "tenure": "January 24, 1966 - March 24, 1977"  
+            "tenure": "January 24, 1966 - March 24, 1977"
         },
         {
             "name": "Shri Morarji Desai",
             "designation": "prime minister of India",
             "image": "images/pm/6.jpg",
-            "tenure": "March 24, 1977 - July 28, 1979"  
+            "tenure": "March 24, 1977 - July 28, 1979"
         },
         {
             "name": "Shri Charan Singh",
             "designation": "prime minister of India",
             "image": "images/pm/7.jpg",
-            "tenure": "July 28, 1979 - January 14, 1980"  
+            "tenure": "July 28, 1979 - January 14, 1980"
         },
         {
             "name": "Smt. Indira Gandhi",
             "designation": "prime minister of India",
             "image": "images/pm/8.jpg",
-            "tenure": "January 14, 1980 - October 31, 1984"  
+            "tenure": "January 14, 1980 - October 31, 1984"
         },
         {
             "name": "Shri Rajiv Gandhi",
             "designation": "prime minister of India",
             "image": "images/pm/9.jpg",
-            "tenure": "October 31, 1984 - December 2, 1989"  
+            "tenure": "October 31, 1984 - December 2, 1989"
         },
         {
             "name": "Shri Vishwanath Pratap Singh",
             "designation": "prime minister of India",
             "image": "images/pm/10.jpg",
-            "tenure": "December 2, 1989 - November 10, 1990"  
+            "tenure": "December 2, 1989 - November 10, 1990"
         },
         {
             "name": "Shri Chandra Shekhar",
             "designation": "prime minister of India",
             "image": "images/pm/11.jpg",
-            "tenure": "November 10, 1990 - June 21, 1991"  
+            "tenure": "November 10, 1990 - June 21, 1991"
         },
         {
             "name": "Shri P. V. Narasimha Rao",
             "designation": "prime minister of India",
             "image": "images/pm/12.jpg",
-            "tenure": "June 21, 1991- May 16, 1996"  
+            "tenure": "June 21, 1991- May 16, 1996"
         },
         {
             "name": "Shri Atal Bihari Vajpayee",
             "designation": "prime minister of India",
             "image": "images/pm/13.jpg",
-            "tenure": "May 16, 1996 - June 1, 1996"  
+            "tenure": "May 16, 1996 - June 1, 1996"
         },
         {
             "name": "Shri H. D. Deve Gowda",
             "designation": "prime minister of India",
             "image": "images/pm/14.jpg",
-            "tenure": "June 1, 1996 - April 21, 1997"  
+            "tenure": "June 1, 1996 - April 21, 1997"
         },
         {
             "name": "Shri Inder Kumar Gujral",
             "designation": "prime minister of India",
             "image": "images/pm/15.jpg",
-            "tenure": "April 21, 1997 - March 19, 1998"  
+            "tenure": "April 21, 1997 - March 19, 1998"
         },
         {
             "name": "Shri Atal Bihari Vajpayee",
             "designation": "prime minister of India",
             "image": "images/pm/16.jpg",
-            "tenure": "March 19, 1998 - May 22, 2004"  
+            "tenure": "March 19, 1998 - May 22, 2004"
         },
         {
             "name": "Dr. Manmohan Singh",
             "designation": "prime minister of India",
             "image": "images/pm/17.jpg",
-            "tenure": "May 22, 2004 - May 26, 2014"  
+            "tenure": "May 22, 2004 - May 26, 2014"
         },
         {
             "name": "Narendra Damodardas Modi",
             "designation": "prime minister of India",
             "image": "images/pm/18.jpg",
-            "tenure": "26 May 2014 - Till Today"  
+            "tenure": "26 May 2014 - Till Today"
         }
     ],
     "RBI": [
         {
-        "name": "Sir Osborne Smith",
-        "designation": "1st RBI Governor of India",
-        "image": "images/rbi/1.jpg",
-        "tenure": "01-04-1935 to 30-06-1937" 
-         },
-         {
+            "name": "Sir Osborne Smith",
+            "designation": "1st RBI Governor of India",
+            "image": "images/rbi/1.jpg",
+            "tenure": "01-04-1935 to 30-06-1937"
+        },
+        {
             "name": "Sir James Taylor",
             "designation": "2nd RBI Governor of India",
             "image": "images/rbi/2.jpg",
-            "tenure": "01-07-1937 to 17-02-1943" 
-         },
-         {
+            "tenure": "01-07-1937 to 17-02-1943"
+        },
+        {
             "name": "Sir C D Deshmukh",
             "designation": " 3rd RBI Governor of India",
             "image": "images/rbi/3.jpg",
-            "tenure": "11-08-1943 to 30-06-1949" 
-         },
-         {
+            "tenure": "11-08-1943 to 30-06-1949"
+        },
+        {
             "name": "Sir Benegal Rama Rau",
             "designation": "4th  RBI Governor of India",
             "image": "images/rbi/4.jpg",
-            "tenure": "01-07-1949 to 14-01-1957" 
-         },
-         {
+            "tenure": "01-07-1949 to 14-01-1957"
+        },
+        {
             "name": "K G Ambegaonkar",
             "designation": "5th RBI Governor of India",
             "image": "images/rbi/5.jpg",
-            "tenure": "14-01-1957 to 28-02-1957" 
-         },
-         {
+            "tenure": "14-01-1957 to 28-02-1957"
+        },
+        {
             "name": "H V R Iengar",
             "designation": "6th RBI Governor of India",
             "image": "images/rbi/6.jpg",
-            "tenure": "01-03-1957 to 28-02-1962" 
-         },
-         {
+            "tenure": "01-03-1957 to 28-02-1962"
+        },
+        {
             "name": "P C Bhattacharya",
             "designation": "7th RBI Governor of India",
             "image": "images/rbi/7.jpg",
-            "tenure": "01-03-1962 to 30-06-1967" 
-         },
-         {
+            "tenure": "01-03-1962 to 30-06-1967"
+        },
+        {
             "name": "L K Jha",
             "designation": "8th RBI Governor of India",
             "image": "images/rbi/8.jpg",
-            "tenure": "01-07-1967 to 03-05-1970" 
-         },
-         {
+            "tenure": "01-07-1967 to 03-05-1970"
+        },
+        {
             "name": "B N Adarkar",
             "designation": "9th RBI Governor of India",
             "image": "images/rbi/9.jpg",
-            "tenure": "04-05-1970 to 15-06-1970" 
-         },
-         {
+            "tenure": "04-05-1970 to 15-06-1970"
+        },
+        {
             "name": "S Jagannathan",
             "designation": "10th RBI Governor of India",
             "image": "images/rbi/10.jpg",
-            "tenure": "16-06-1970 to 19-05-1975" 
-         },
-         {
+            "tenure": "16-06-1970 to 19-05-1975"
+        },
+        {
             "name": "N C Sen Gupta",
             "designation": "11th RBI Governor of India",
             "image": "images/rbi/11.jpg",
-            "tenure": "19-05-1975 to 19-08-1975" 
-         },
-         {
+            "tenure": "19-05-1975 to 19-08-1975"
+        },
+        {
             "name": "K R Puri",
             "designation": "12th RBI Governor of India",
             "image": "images/rbi/12.jpg",
-            "tenure": "20-08-1975 to 02-05-1977" 
-         },
-         {
+            "tenure": "20-08-1975 to 02-05-1977"
+        },
+        {
             "name": "M Narasimham",
             "designation": "13th RBI Governor of India",
             "image": "images/rbi/13.jpg",
-            "tenure": "02-05-1977 to 30-11-1977" 
+            "tenure": "02-05-1977 to 30-11-1977"
         },
         {
             "name": "Dr. I G Patel",
             "designation": "14th RBI Governor of India",
             "image": "images/rbi/14.jpg",
-            "tenure": "01-12-1977 to 15-09-1982" 
-         },
-         {
+            "tenure": "01-12-1977 to 15-09-1982"
+        },
+        {
             "name": "Dr. Manmohan Singh",
             "designation": "15th RBI Governor of India",
             "image": "images/rbi/15.jpg",
-            "tenure": "16-09-1982 to 14-01-1985" 
-         },
-         {
+            "tenure": "16-09-1982 to 14-01-1985"
+        },
+        {
             "name": "A Ghosh",
             "designation": "16th RBI Governor of India",
             "image": "images/rbi/16.jpg",
-            "tenure": "15-01-1985 to 04-02-1985" 
-         },
-         {
+            "tenure": "15-01-1985 to 04-02-1985"
+        },
+        {
             "name": "R N Malhotra",
             "designation": "17th RBI Governor of India",
             "image": "images/rbi/17.jpg",
-            "tenure": "04-02-1985 to 22-12-1990" 
-         },
-         {
+            "tenure": "04-02-1985 to 22-12-1990"
+        },
+        {
             "name": "Venkitaramanan",
             "designation": "18th RBI Governor of India",
             "image": "images/rbi/18.jpg",
-            "tenure": "22-12-1990 to 21-12-1992" 
-         },
-         {
+            "tenure": "22-12-1990 to 21-12-1992"
+        },
+        {
             "name": "Dr. C Rangarajan",
             "designation": "19th RBI Governor of India",
             "image": "images/rbi/19.jpg",
-            "tenure": "22-12-1992 to 22-11-1997" 
-         },
-         {
+            "tenure": "22-12-1992 to 22-11-1997"
+        },
+        {
             "name": "Dr. Bimal Jalan",
             "designation": "20th RBI Governor of India",
             "image": "images/rbi/20.jpg",
-            "tenure": "22-11-1997 to 06-09-2003" 
-         },
-         {
+            "tenure": "22-11-1997 to 06-09-2003"
+        },
+        {
             "name": "Dr. Y V Reddy",
             "designation": "21st RBI Governor of India",
             "image": "images/rbi/21.jpg",
-            "tenure": "06-09-2003 to 05-09-2008" 
-         },
-         {
+            "tenure": "06-09-2003 to 05-09-2008"
+        },
+        {
             "name": "Dr. D. Subbarao",
             "designation": "22nd RBI Governor of India",
             "image": "images/rbi/22.jpg",
-            "tenure": "05-09-2008 to 04-09-13" 
-         },
-         {
+            "tenure": "05-09-2008 to 04-09-13"
+        },
+        {
             "name": "Dr. Raghuram Rajan",
             "designation": "23rd RBI Governor of India",
             "image": "images/rbi/23.jpg",
-            "tenure": "04-09-2013 to 04-09-2016" 
-         },
-         {
+            "tenure": "04-09-2013 to 04-09-2016"
+        },
+        {
             "name": "Dr. Urjit R. Patel",
             "designation": "24th RBI Governor of India",
             "image": "images/rbi/24.jpg",
-            "tenure": "04-09-2016 to 11-12-2018" 
-         },
-         {
+            "tenure": "04-09-2016 to 11-12-2018"
+        },
+        {
             "name": "Shri Shaktikanta Das",
             "designation": "25th RBI Governor of India",
             "image": "images/rbi/25.jpg",
-            "tenure": "12-12-2018 to date" 
-         }
-        ],
-        "cm": [
-            {
-            "name":"jagan mohan reddy" ,
-            "state":"Andhra Pradesh (AP)",
-            "image":"images/cm/1.jpg"
-            
-            }
-        ]
+            "tenure": "12-12-2018 to date"
+        }
+    ],
+    "cm": [
+        {
+            "state": "Andhra Pradesh",
+            "name": "Shri YS Jagan Mohan Reddy",
+            "image": "images/cm/1.jpg"
+        },
+        {
+            "state": "Arunachal Pradesh",
+            "name": "Shri Pema Khandu",
+            "image": "images/cm/2.jpg"
+        },
+        {
+            "state": "Assam",
+            "name": "Shri Himanta Biswa Sarma",
+            "image": "images/cm/3.jpg"
+        },
+        {
+            "state": "Bihar",
+            "name": "Shri Nitish Kumar",
+            "image": "images/cm/4.jpg"
+        },
+        {
+            "state": "Chhattisgarh",
+            "name": "Shri Bhupesh Baghel",
+            "image": "images/cm/5.jpg"
+        },
+        {
+            "state": "Delhi (NCT)",
+            "name": "Shri Arvind Kejriwal",
+            "image": "images/cm/6.jpg"
+        },
+        {
+            "state": "Goa",
+            "name": "Shri Pramod Sawant",
+            "image": "images/cm/7.jpg"
+        },
+        {
+            "state": "Gujarat",
+            "name": "Shri Bhupendra Patel",
+            "image": "images/cm/8.jpg"
+        },
+        {
+            "state": "Haryana",
+            "name": "Shri Manohar Lal",
+            "image": "images/cm/9.jpg"
+        },
+        {
+            "state": "Himachal Pradesh",
+            "name": "Shri Jairam Thakur",
+            "image": "images/cm/10.jpg"
+        },
+        {
+            "state": "Jharkhand",
+            "name": "Shri Hemant Soren",
+            "image": "images/cm/11.jpg"
+        },
+        {
+            "state": "Karnataka",
+            "name": "Sri Basavaraj Bommai",
+            "image": "images/cm/12.jpg"
+        },
+        {
+            "state": "Kerala",
+            "name": "Shri Pinarayi Vijayan",
+            "image": "images/cm/13.jpg"
+        },
+        {
+            "state": "Madhya Pradesh",
+            "name": "Shri Shivraj Singh Chouhan",
+            "image": "images/cm/14.jpg"
+        },
+        {
+            "state": "Maharashtra",
+            "name": "Shri Uddhav Thackeray",
+            "image": "images/cm/15.jpg"
+        },
+        {
+            "state": "Manipur",
+            "name": "Shri N. Biren Singh",
+            "image": "images/cm/16.jpg"
+        },
+        {
+            "state": "Meghalaya",
+            "name": "Shri Conrad Kongkal Sangma",
+            "image": "images/cm/17.jpg"
+        },
+        {
+            "state": "Mizoram",
+            "name": "Shri Pu Zoramthanga",
+            "image": "images/cm/18.jpg"
+        },
+        {
+            "state": "Nagaland",
+            "name": "Shri Neiphiu Rio",
+            "image": "images/cm/19.jpg"
+        },
+        {
+            "state": "Odisha",
+            "name": "Shri Naveen Patnaik",
+            "image": "images/cm/20.jpg"
+        },
+        {
+            "state": "Puducherry (UT)",
+            "name": "Shri N. Rangaswamy",
+            "image": "images/cm/21.jpg"
+        },
+        {
+            "state": "Punjab",
+            "name": "Shri Bhagwant Singh Mann",
+            "image": "images/cm/22.jpg"
+        },
+        {
+            "state": "Rajasthan",
+            "name": "Shri Ashok Gehlot",
+            "image": "images/cm/23.jpg"
+        },
+        {
+            "state": "Sikkim",
+            "name": "Shri PS Golay",
+            "image": "images/cm/24.jpg"
+        },
+        {
+            "state": "Tamil Nadu",
+            "name": "Shri M. K. Stalin",
+            "image": "images/cm/25.jpg"
+        },
+        {
+            "state": "Telangana",
+            "name": "Shri K Chandrasekhar Rao",
+            "image": "images/cm/26.jpg"
+        },
+        {
+            "state": "Tripura",
+            "name": "Dr. Manik Saha",
+            "image": "images/cm/27.jpg"
+        },
+        {
+            "state": "Uttar Pradesh",
+            "name": "Shri Yogi Aditya Nath",
+            "image": "images/cm/28.jpg"
+        },
+        {
+            "state": "Uttarakhand",
+            "name": "Shri Pushkar Singh Dhami",
+            "image": "images/cm/29.jpg"
+        },
+        {
+            "state": "West Bengal",
+            "name": "Km. Mamata Banerjee",
+            "image": "images/cm/30.jpg"
+        }
+    ]
 }
-    
-

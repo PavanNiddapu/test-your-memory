@@ -14,6 +14,7 @@ const Card = (props) => {
                                 <h2> {item.name} </h2>
                                 <p> {item.designation} </p>
                                 <p> {item.tenure}</p>
+                                <p> {item.state}</p>
                             </div>
                         </div>
                     </div>

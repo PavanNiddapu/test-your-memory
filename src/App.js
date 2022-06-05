@@ -35,7 +35,13 @@ function App() {
               <Link to="/RBI">RBI</Link>
             </li>
             <li>
-              <Link to="/cm">cm</Link>
+              <Link to="/CM">CM</Link>
+            </li>
+            <li>
+              <Link to="/GOVERNORS">GOVERNORS</Link>
+            </li>
+            <li>
+              <Link to="/CJI">CJI</Link>
             </li>
           </ul>
         </nav>
